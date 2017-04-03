@@ -1,7 +1,13 @@
 img { 
     width: 200px; 
 } 
+
+
 body { 
 text-align: center; 
 font-family: "Arial"; 
-}
+}        
+
+.who {
+        background:url("http://en.picmix.com/pic/download?picId=4822377&key=021f1 ");
+        }git add --all 
