@@ -6,10 +6,9 @@ var enemyImage;
 
 
  function preload(){ 
-  playerImage = loadImage("https://ivobrett.github.io/hackclubcode/dodge/images/png/shield.png"); 
+  playerImage = loadImage("https://ivobrett.github.io/hackclubcode/dodge/images/png/enemyShip.png"); 
   enemyImage = loadImage("https://surrogate.hackedu.us/i.imgur.com/OdL0XPt.png"); 
 } 
-
 
  
  function gameOver() { 
